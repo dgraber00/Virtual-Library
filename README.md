@@ -4,3 +4,5 @@ Contributors:
 Dalton Graber
 Jada Towner
 Cam Thomas
+
+Library User Account Class - Dalton Graber
