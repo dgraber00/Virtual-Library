@@ -1,5 +1,6 @@
 /*
  * Dalton Graber
+ * Creates the library users account
  */
 public class libraryUserAccount {
 	private int numberOfBooks;
