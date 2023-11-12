@@ -3,6 +3,7 @@ This application lets a user check out a maximum number of books and after retur
 Contributors:
 Dalton Graber
 Jada Towner
-Cam Thomas
+Cam Thomson
 
 Library User Account Class - Dalton Graber
+Virtual Library Class - Cam Thomson
